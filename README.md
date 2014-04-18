@@ -13,4 +13,4 @@ any cell outside of the grid, ceases to exist.
 Go ahead and hop into the source if you want to play around with the seed!
 
 -Josh
-http://nujosh.com/
+http://josh-mitchell.com/
